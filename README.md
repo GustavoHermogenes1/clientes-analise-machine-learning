@@ -1,2 +1,2 @@
 # clientes-analise-machine-learning
-Análise de dados completa a partir de tabelas armazenadas no SGBD MySQL. Manipulação, modelagem e entendimento de dados usando linguagem SQL, Power BI para visualização e Python para 
+Análise completa de dados a partir de tabelas armazenadas em um banco MySQL. O projeto abrange manipulação e modelagem de dados com SQL, visualização interativa com Power BI e aplicação de um algoritmo de Machine Learning em Python para prever potenciais novos clientes com base no perfil dos clientes atuais.
